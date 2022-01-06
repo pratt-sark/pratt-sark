@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratyay
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Flutter and Node js
 - I’m looking to collaborate on nothing at the moment; I am still building up my skills.
 - 📫 How to reach me : pratyay2sarkar@gmail.com
 
