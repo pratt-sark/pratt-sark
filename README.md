@@ -1,11 +1,12 @@
 ## Pratyay Sarkar
 
-- 🖥️ I’m interested in Web Development and Machine Learning
+- 🖥️ I’m interested in Machine Learning and Web Development
+- 📃 I'm particularly interested in Natural Language Processing with Language Models
 - 🌱 I’m currently learning Flutter, React and Node js
-- I’m looking to collaborate on Full-Stack Development and I am still building up my skills
+- 🖥️ I’m looking to collaborate on Transformer-based NLP Projects and Full-Stack Development (I am still building up my skills)
 - I'm currently working on a project involving Language Models
-- 💬 Ask me about: React.js, Flutter, Node.js, HTML, CSS, PyTorch
-- </> Languages: Javascript, C, C++, Java, Python
+- 💬 Ask me about: Language Models, Transformers, React.js, Flutter, Node.js, HTML, CSS, PyTorch
+- </> Languages: Javascript, C, C++, Python
 - ⚡ Fun fact: "Supporting Manchester United cures happiness."
 - 📫 How to reach me : pratyay2sarkar@gmail.com
 
