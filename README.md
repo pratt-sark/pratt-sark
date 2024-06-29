@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Flutter, React and Node js
 - 🖥️ I’m looking to collaborate on Transformer-based NLP Projects and Full-Stack Development (I am still building up my skills)
 - I'm currently working on a project involving Language Models
-- 💬 Ask me about: Language Models, Transformers, React.js, Flutter, Node.js, HTML, CSS, PyTorch
+- 💬 Ask me about: Language Models, Transformers, PyTorch, React.js, Flutter, Node.js, HTML, CSS. JavaScript 
 - </> Languages: Javascript, C, C++, Python
 - ⚡ Fun fact: "Supporting Manchester United cures happiness."
 - 📫 How to reach me : pratyay2sarkar@gmail.com
