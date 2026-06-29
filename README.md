@@ -23,9 +23,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Badges
 
-![React.js](https://img.shields.io/badge/React.js-blue?logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
-![Node.js](https://img.shields.io/badge/Node.js-blue?logo=node.js)
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-orange?logo=css3)
 ![PyTorch](https://img.shields.io/badge/PyTorch-yellow?logo=pytorch) 
