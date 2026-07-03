@@ -14,13 +14,6 @@
 pratt-sark/pratt-sark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratt-sark&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratt-sark&layout=compact&theme=radical)](https://github.com/pratt-sark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=pratt-sark&theme=onedark&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
----
-
 ## Badges
 
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
